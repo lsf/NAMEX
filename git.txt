@@ -1,0 +1,23 @@
+git@github.com:lsf4662872/test.git
+
+
+git config --global user.name “?????”      
+git config --global user.email “?”   
+
+ssh-keygen -t rsa 
+
+git clone gitosis@uf-git:nlb-ksi.git
+
+如果远程还有其他的分支，此时用git branch -a查看所有分支
+git checkout -b dev //创建 dev分支并切换到这个分支
+
+
+http://www.ufinity.cc/wiki/login.action;jsessionid=EF5F316A94D5B6CA86035844081BBB4A?os_destination=%2Fdisplay%2Fqateams%2FHome
+
+
+http://wiki.ufinity.com/display/UFPREX/Baseline+GIT+Development+Workflow
+
+https://progit.org/book/zh/
+
+
+sdfas看电视噶阿斯顿
